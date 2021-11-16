@@ -27,7 +27,7 @@ function Footer() {
               {" "}
               <img src={yutub} />
             </a>
-            <a href="https://github.com/jasminaisaeva">
+            <a href="https://github.com/baktyar-kydyrberdiuulu">
               {" "}
               <img src={github} />
             </a>
